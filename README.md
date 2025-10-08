@@ -24,7 +24,7 @@ This project simulates a **Hospital Management System** built using **MySQL** fo
 
 ### 🗺 Entity Relationship Diagram
 
-![ER Diagram](https://github.com/AlishaMahanty85/Healthcare_Project_SQL/blob/main/ER_Diagram.png)
+![ER Diagram](https://github.com/AlishaMahanty/Hospital_Management_Project-SQL_PowerBI/blob/main/ER_Diagram.png)
 
 
 ## 🛠 Tools & Skills Used
@@ -65,22 +65,22 @@ This project simulates a **Hospital Management System** built using **MySQL** fo
 
 ## 📈 Dashboard Insights
 
-1. [🏥 **Hospital Snapshot**](https://github.com/AlishaMahanty85/Hospital_Project-SQL__PowerBI/blob/main/Hospital_Snapshot.png)
+1. [🏥 **Hospital Snapshot**](https://github.com/AlishaMahanty/Hospital_Management_Project-SQL_PowerBI/blob/main/Hospital_Snapshot.png)
 - Shows total patients, active doctors, and monthly revenue at a glance
 - Highlights real-time hospital performance metrics
 - Helps management monitor overall operational health instantly
 
-2. [👨‍⚕️ **Doctor Performance**](https://github.com/AlishaMahanty85/Hospital_Project-SQL__PowerBI/blob/main/Doctors_Performance.png)
+2. [👨‍⚕️ **Doctor Performance**](https://github.com/AlishaMahanty/Hospital_Management_Project-SQL_PowerBI/blob/main/Doctors_Performance.png)
 - Identifies doctors with the highest appointment load
 - Highlights patient trust and efficiency trends
 - Reveals opportunities for resource allocation and mentoring
 
-3. [🧑‍🤝‍🧑 **Patient Insights**](https://github.com/AlishaMahanty85/Hospital_Project-SQL__PowerBI/blob/main/Patients_Insights.png)
+3. [🧑‍🤝‍🧑 **Patient Insights**](https://github.com/AlishaMahanty/Hospital_Management_Project-SQL_PowerBI/blob/main/Patients_Insights.png)
 - Displays treatment trends and visit frequency
 - Identifies high-value patients based on total billing
 - Highlights frequent visitors for retention and follow-up programs
 
-4. [💰 **Financial Overview**](https://github.com/AlishaMahanty85/Hospital_Project-SQL__PowerBI/blob/main/Financial_Overview.png)
+4. [💰 **Financial Overview**](https://github.com/AlishaMahanty/Hospital_Management_Project-SQL_PowerBI/blob/main/Financial_Overview.png)
 - Tracks monthly revenue patterns with peaks and drops
 - Highlights pending and failed payments
 - Shows most-used payment methods to optimize billing flow
@@ -94,12 +94,12 @@ I created a detailed PDF presentation to visually explain this SQL project, incl
 - Database schema and ER diagram
 - 10 business-focused SQL queries
 - Key insights and outcomes
-- 👉 [Click here to view the full PDF presentation](https://github.com/AlishaMahanty85/Healthcare_Project-SQL/blob/main/Hospital%20Management%20System%20Project.pdf)
+- 👉 [Click here to view the full PDF presentation](https://github.com/AlishaMahanty/Hospital_Management_Project-SQL_PowerBI/blob/main/Hospital%20Management%20System%20Project.pdf)
 
 ---
 
 ## 📁 Files Included
 
-- [schema.sql](https://github.com/AlishaMahanty85/Healthcare_Project_SQL/blob/main/Schema.sql) – Database creation and table structure
-- [queries.sql](https://github.com/AlishaMahanty85/Healthcare_Project_SQL/blob/main/Queries.sql) – All business queries
-- [Hospital_Analytics_Dashboard.pbix](https://github.com/AlishaMahanty85/Healthcare_Project-SQL/blob/main/Hospital_Analytics_Dashboard.pbix) - Power BI dashboards file
+- [schema.sql](https://github.com/AlishaMahanty/Hospital_Management_Project-SQL_PowerBI/blob/main/Schema.sql) – Database creation and table structure
+- [queries.sql](https://github.com/AlishaMahanty/Hospital_Management_Project-SQL_PowerBI/blob/main/Queries.sql) – All business queries
+- [Hospital_Analytics_Dashboard.pbix](https://github.com/AlishaMahanty/Hospital_Management_Project-SQL_PowerBI/blob/main/Hospital_Analytics_Dashboard.pbix) - Power BI dashboards file
