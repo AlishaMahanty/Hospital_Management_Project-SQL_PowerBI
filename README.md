@@ -103,4 +103,4 @@ I created a detailed PDF presentation to visually explain this SQL project, incl
 - [schema.sql](https://github.com/AlishaMahanty/Hospital_Management_Project-SQL_PowerBI/blob/main/Schema.sql) – Database creation and table structure
 - [queries.sql](https://github.com/AlishaMahanty/Hospital_Management_Project-SQL_PowerBI/blob/main/Queries.sql) – All business queries
 - [Hospital_Analytics_Dashboard.pbix](https://github.com/AlishaMahanty/Hospital_Management_Project-SQL_PowerBI/blob/main/Hospital_Analytics_Dashboard.pbix) - Power BI dashboards file
-- [Hospital_Analytics_Dashboard.pdf](https://github.com/AlishaMahanty/Hospital_Management_Project-SQL_PowerBI/blob/main/Hospital_Analytics_Dashboard.pdf)
+- [Hospital_Analytics_Dashboard.pdf](https://github.com/AlishaMahanty/Hospital_Management_Project-SQL_PowerBI/blob/main/Hospital_Analytics_Dashboard.pdf) - Dashboards PDF file
